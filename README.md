@@ -9,7 +9,7 @@
 
 ### :memo: Info
 Backend: Desenvolvimento de API Rest em Java utilizando Spring Boot
-Front: Desenvolvimento da interface visual da aplicação foi desenvolvida com Vue e Bootstrap
+Frontend: Desenvolvimento da interface visual da aplicação foi desenvolvida com Vue e Bootstrap
 
 > Ao subir a aplicação no Heroku as validações dos campos em branco não funcionam. Ainda estou tentando descobrir a correção.
 
